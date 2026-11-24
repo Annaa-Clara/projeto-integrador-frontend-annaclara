@@ -11,12 +11,14 @@ Projeto prático da disciplina **Desenvolvimento Front-end para Web**, construí
 - `index.html`: página principal
 - `css/style.css`: estilos
 - `js/script.js`: scripts
+- `assets/images/`: imagens do projeto (capa do video)
+- `assets/video/`: videos do destaque
 
 ## Autora
 Anna Clara de Medeiros Gonçalves
 
 ## Site publicado
-https://annaa-clara.github.io/projeto-pratico-front-end/
+https://annaa-clara.github.io/projeto-integrador-frontend-annaclara/
 
 ## Avaliações em Pares
 ### 🔍 Checklists de Avaliação por Aula (Feito por Gustavo Henrique Dia 09/11/2026)
